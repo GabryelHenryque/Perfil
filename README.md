@@ -12,6 +12,8 @@
   <img align="center" all="Math-html5" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
   <img align="center" all="Math-css3" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
   <img align="center" all="Math-javascript" height="50" width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" all="Math-javascript" height="25" width="25" src="https://yt3.googleusercontent.com/DNuPYj1s0jhj_MBIO5wRRy2ynvIvyLyrxp5U6zdhL7GccoITHB_X76Clfd7W2JtGEo4iCtOK=s900-c-k-c0x00ffffff-no-rj">
+  
   </div>
 <----------------------------------------------------------->
 <br />
