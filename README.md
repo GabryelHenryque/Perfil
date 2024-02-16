@@ -9,9 +9,9 @@
 
   <img align="center" alt="Math-Kotlin" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg">
   <img align="center" alt="Math-C#" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  <img align="center" all="Math-html5"  height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
-  <img align="center" all="Math-css3"  height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
-  <img align="center" all="Math-javascript"  height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
+  <img align="center" all="Math-html5" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg">
+  <img align="center" all="Math-css3" height="50" width="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg">
+  <img align="center" all="Math-javascript" height="50" width="20" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
   </div>
 <----------------------------------------------------------->
 <br />
