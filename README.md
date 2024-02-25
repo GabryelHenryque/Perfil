@@ -2,7 +2,7 @@
 
 - 💡 **Eu gosto** de aprender coisas novas, principalmente quando e sobre arte e tecnologia.
 - 👨‍💻 **Hoje** estou Cursando o Curso TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
-- 📚 **estudo** independente GML(GameMaker Language)
+- 📚 **estudo** independente GML(GameMaker Language), roteiro de cinema e animação
 <div style="display: inline_block"><br>
   <img align="center" alt="Math-android Studio" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg">
   <img align="center" alt="Math-VisualStudion" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg">
